@@ -6,9 +6,9 @@
 - Iterate right side of window until condition is true
 - If condition is false, iterate left side of window until it is true again
 - Repeat this process until we reach the end of the array  
-Some example cases include:  
+### Some example cases include:  
 - finding the max sum for a contiguos subarray of length k
 - finding all subarrays with max k and min K
 - finding all subarrays of sum k  
-Example LeetCode Problems:  
+### Example LeetCode Problems:  
 
